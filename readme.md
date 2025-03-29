@@ -21,4 +21,4 @@ A high-performance Discord server boosting tool designed to automate server boos
 ```bash
 git clone https://github.com/miszxxx/discord-boost-tool.git
 cd discord-boost-tool
-"Install Requirements.bat"
+"Install All Requirements.bat"
